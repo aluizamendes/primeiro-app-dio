@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">primeiroAppDio</string>
+    <string name="app_title">" Bonjour, bienvenue dans ma première application."</string>
+    <string name="app_subtitle">Cette application prend en charge d\'autres langues.</string>
+</resources>

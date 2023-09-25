@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">primeiroAppDio</string>
+    <string name="app_title">Olá, bem-vindo(a) ao meu primeiro app.</string>
+    <string name="app_subtitle">Esse aplicativo suporta outras linguagens.</string>
+</resources>
